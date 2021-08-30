@@ -20,7 +20,7 @@ To allow a user to navigate the backend of their commerce website to review, tra
 
 - https://youtu.be/DS0zPzgzNdQ
 
-[![Watch the video](https://i.imgur.com/FwUCnbF.png)](https://youtu.be/DS0zPzgzNdQ)
+[![Watch the video](https://i.imgur.com/XhaHoBu.png)](https://youtu.be/DS0zPzgzNdQ)
 
 ## Screenshots
 
