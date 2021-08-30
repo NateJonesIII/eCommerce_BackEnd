@@ -20,21 +20,21 @@ To allow a user to navigate the backend of their commerce website to review, tra
 
 - https://youtu.be/DS0zPzgzNdQ
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/DS0zPzgzNdQ)
+[![Watch the video](https://i.imgur.com/FwUCnbF.png)](https://youtu.be/DS0zPzgzNdQ)
 
 ## Screenshots
 
-- <img width="900" alt="Tag" src="https://github.com/NateJonesIII/eCommerce_BackEnd/blob/main/assets/Category.PNG?raw=true">
+- <img width="800" alt="Tag" src="https://github.com/NateJonesIII/eCommerce_BackEnd/blob/main/assets/Category.PNG?raw=true">
 
-- <img width="900" alt="Tag" src="https://github.com/NateJonesIII/eCommerce_BackEnd/blob/main/assets/Products.PNG?raw=true">
+- <img width="800" alt="Tag" src="https://github.com/NateJonesIII/eCommerce_BackEnd/blob/main/assets/Products.PNG?raw=true">
 
-- <img width="900" alt="Tag" src="https://github.com/NateJonesIII/eCommerce_BackEnd/blob/main/assets/Tag.PNG?raw=true">
+- <img width="800" alt="Tag" src="https://github.com/NateJonesIII/eCommerce_BackEnd/blob/main/assets/Tag.PNG?raw=true">
 
-- <img width="900" alt="Tag" src="https://github.com/NateJonesIII/eCommerce_BackEnd/blob/main/assets/getProd.PNG?raw=true">
+- <img width="800" alt="Tag" src="https://github.com/NateJonesIII/eCommerce_BackEnd/blob/main/assets/getProd.PNG?raw=true">
 
-- <img width="900" alt="Tag" src="https://github.com/NateJonesIII/eCommerce_BackEnd/blob/main/assets/getTag.PNG?raw=true">
+- <img width="800" alt="Tag" src="https://github.com/NateJonesIII/eCommerce_BackEnd/blob/main/assets/getTag.PNG?raw=true">
 
-- <img width="900" alt="Tag" src="https://github.com/NateJonesIII/eCommerce_BackEnd/blob/main/assets/getCat.PNG?raw=true">
+- <img width="800" alt="Tag" src="https://github.com/NateJonesIII/eCommerce_BackEnd/blob/main/assets/getCat.PNG?raw=true">
 
 ## Technology
 
